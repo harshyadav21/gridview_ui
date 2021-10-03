@@ -21,7 +21,7 @@ class _GridView1State extends State<GridView1> {
         child: Container(
           decoration: BoxDecoration(color: Colors.white,
           
-          borderRadius: BorderRadius.circular(120.0),
+          borderRadius: BorderRadius.circular(100.0),
           
           ),
           
